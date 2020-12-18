@@ -3,4 +3,5 @@ body {
     text-align: center;
     color: blue;
     background-color: gray;
+    border: 5px solid #000000;
 }
